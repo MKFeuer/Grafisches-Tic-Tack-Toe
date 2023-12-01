@@ -12,7 +12,7 @@ Ganz einfach:
 
 Entweder
 
-1. Ihr geht auf https://rplit.com
+1. Ihr geht auf https://replit.com 
 
 2. Erstellt dort ein Neues Python Projekt und fügt die Datei dort hinzu und drückt oben auf Run
 
