@@ -20,7 +20,7 @@ ODER
 
 1. Ladet euch Python von https://python.org herunter und installiert es.
 
-2. Geht in die Eingabeaufforderung in dem Verzeichnis wo die Datei aus dießem Repositori gedownloadet liegt 
+2. Geht in die Eingabeaufforderung in dem Verzeichnis wo die Datei aus dießem Repositories gedownloadet liegt 
 
 3. Führt die Datei mit python <Dateinamen> aus
 
